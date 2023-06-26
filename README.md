@@ -4,6 +4,21 @@
 <img align="center" src="readme/telaadmin.gif" width="700px">
 <h3 align="center"><a href="https://cuidadores4patas.alwaysdata.net/">Acesse o site hospedado</a></h3>
 
+## 🏳️ Seções e funcionalidades
+
+Seções:
+- Seção de boas vindas;
+- Seção de pets para adoção;
+- Seção para doações;
+- Seção sobre;
+
+Funcionalidades:
+- Divisão entre usuários (Visitantes e Admins) ✅
+- Adicionar pets ✅
+- Remover pets ✅
+- Atualizar pets ✅
+- Adotar pets (Informações são enviadas para o email de hospedagem) ✅
+
 ## 💻 Tecnologias
 
 - HTML5;
