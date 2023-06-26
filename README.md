@@ -50,7 +50,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/viihs213">
-        <img src="https://i.ibb.co/F02ghqx/viih.png" width="100px;" alt="Foto da Odinéa no GitHub"/><br>
+        <img src="https://i.ibb.co/rpSCnVF/viiih.png" width="100px;" alt="Foto da Odinéa no GitHub"/><br>
         <sub>
           <b>Maria Victória</b>
         </sub>
